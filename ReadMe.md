@@ -65,16 +65,6 @@ In this phase:
 
 This phase ensures that the data is optimized for business intelligence and advanced analytics, providing actionable insights through seamless integration with Power BI.
 
-## Key Features
-- **Raw Data Ingestion (Bronze Layer):** Load raw data into Azure Data Lake Storage.
-- **Data Transformation (Silver Layer):** Process and clean the data using Databricks.
-- **Analytics-Ready Data (Gold Layer):** Create aggregated and business-friendly datasets.
-- **Integration with Synapse Analytics:** Enable advanced analysis and visualization using Synapse.
-
-## Prerequisites
-- An active Azure subscription.
-- Basic familiarity with Azure services like Data Factory, ADLS, and Databricks.
-- The Adventure Works dataset (downloadable from Kaggle).
 
 ## Getting Started
 1. Clone this repository to your local environment.
